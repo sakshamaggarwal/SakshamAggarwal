@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @sakshamaggarwal
+- 🌱 I’m currently learning Terraforms and Deep Learning
+- 👀 I’m always interested in exploring new projects and technologies to collaborate on ! 🚗
+- 🌱 I’m currently working as a Research Assistant at UC Irvine 👨‍🎓
+- 📫 Feel free to drop a message to @My LinkedIn --> https://www.linkedin.com/in/sakagg/ 💻
+- Liked any of my repos, lets connect ! 😉
+- ⚡ Fun fact: I am a Computer Science Grad :D
+
+
+
+
+
+
+
+
