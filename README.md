@@ -2,11 +2,10 @@
 
 
 - 👋 Hi, I’m @sakshamaggarwal
-- 🌱 I love automating manual processes
+- 🌱 I love AI deep dives
 - 👀 I’m always interested in learning and collaborating on open source project ! 🚗
 - 🌱 I’m currently in transition, looking for my next contribution opportunity 👨‍🎓
-- 📫 Feel free to drop a message to my LinkedIn : https://www.linkedin.com/in/sakagg/ 💻
-- Like anything about me .. lets connect ! 😉
+- Like anything about me .. let's connect ! 😉 📫 Feel free to drop a message to my LinkedIn 💻
 - ⚡ Fun fact: I am a Computer Science Grad :D
 
 ###
